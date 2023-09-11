@@ -16,12 +16,12 @@
 
 <br clear="both">
 
-<img align="left" height="180" style="margin-right: 20px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mtmwkvoqavpa3syd88ea8jauvwaq7tc42vuwxkj0&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="left" height="221" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mtmwkvoqavpa3syd88ea8jauvwaq7tc42vuwxkj0&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsauner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsauner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
