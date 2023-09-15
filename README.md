@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Ola! Sou David Leadro Sauner.<br> Desenvolvedor web full stack<br>A paixão por problemas me trouxe até aqui.<br><br>- 🔭 Eu tenho trabalhado principalmente com JavaScript e TypeScript.<br>- 📚 Tenho muito interesse em aprender novas  stacks.<br>- ⚡ Gosto muito de ajudar a resolver problemas e aprender cada dia mais.</h4>
+<h4 align="left">Ola! Sou David Leandro Sauner.<br> Desenvolvedor web full stack<br>A paixão por problemas me trouxe até aqui.<br><br>- 🔭 Eu tenho trabalhado principalmente com JavaScript e TypeScript.<br>- 📚 Tenho muito interesse em aprender novas  stacks.<br>- ⚡ Gosto muito de ajudar a resolver problemas e aprender cada dia mais.</h4>
 
 ###
 
